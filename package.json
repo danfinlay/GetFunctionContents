@@ -1,0 +1,14 @@
+{
+  "name": "aaron_helper",
+  "version": "0.0.0",
+  "description": "Returns a string representing the contents of a function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Dan Finlay <dan@danfinlay.com>",
+  "license": "BSD",
+  "devDependencies": {
+    "expect.js": "~0.2.0"
+  }
+}
